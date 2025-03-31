@@ -1,6 +1,6 @@
 # AI-powered-Resume-Shortlister
 **Description:**  
-ResumeMatcher is a machine learning project designed to streamline the process of matching resumes to job descriptions with improved accuracy and efficiency. This tool leverages advanced natural language processing (NLP) techniques to analyze and pair resumes with relevant job descriptions based on their content and relevance. By using clustering, cosine similarity, and classification algorithms, ResumeMatcher provides a robust and scalable solution for talent acquisition and recruitment processes.  
+ResumeMatcher is a machine learning project designed to streamline process of matching resumes to job descriptions with improved accuracy and efficiency. This tool leverages advanced natural language processing (NLP) techniques to analyze and pair resumes with relevant job descriptions based on their content and relevance. By using clustering, cosine similarity, and classification algorithms, ResumeMatcher provides a robust and scalable solution for talent acquisition and recruitment processes.  
 
 ### **Key Features:**  
 1. **Resume and Job Description Processing:**  
